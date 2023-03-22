@@ -1,0 +1,29 @@
+.col-sm-4{
+    width:max-content;
+}
+
+.input{
+    padding:6px;
+    font-size:14px;
+    width:7cm;
+
+}
+label{
+    font-weight: bold;
+    font-size: 15px;
+}
+table,tr,th,td{
+    margin: 50px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-radius: 100%;
+    text-align: center;
+    
+}
+.main{
+    margin: 30px;
+    background-color: aqua;
+    font-size: medium;
+    
+}
+
